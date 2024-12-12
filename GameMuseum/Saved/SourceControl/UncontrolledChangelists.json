@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FirstPerson/Blueprints/PokemonGO/BP_Pikachu.uasset",
+				"D:/Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FirstPerson/Maps/PokemonGoRoom.umap",
+				"D:/Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FirstPerson/Blueprints/PokemonGO/BP_PokeBall.uasset",
+				"D:/Games/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"D:/Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FPWeapon/Mesh/PokeBall/pokemon_basic_pokeball.uasset",
+				"D:/Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FPWeapon/Mesh/PokeBall/pokemon_basic_pokeball_texture_0.uasset",
+				"D:/Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FPWeapon/Mesh/PokeBall/pokemon_basic_pokeball_texture_1.uasset",
+				"D:/Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FPWeapon/Mesh/PokeBall/pokemon_basic_pokeball_texture_2.uasset",
+				"D:/Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FPWeapon/Mesh/PokeBall/Scene_-_Root.uasset",
+				"D:/Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FirstPerson/Blueprints/PokemonGO/Sound/Pokemon_RedBlue_Ending.uasset",
 				"D:/Game Dev/CV/GameMuseum/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
