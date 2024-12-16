@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Maps/Fortnelson.umap",
+				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/SM_ranks.uasset",
+				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/SM_Wall_Fortnelson.uasset",
+				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/SM_museum_wall.uasset",
+				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/SM_museum_wall.uasset",
+				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/SM_museum_wall.uasset",
 				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/clou.uasset",
 				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/corde.uasset",
 				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/Cylinder_001_wood_0.uasset",
@@ -49,8 +54,6 @@
 				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/Torus_corde_0.uasset",
 				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/wood.uasset",
 				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/wood2.uasset",
-				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/SM_ranks.uasset",
-				"/Users/pedrotorres1010/Documents/GitHub/CV/GameMuseum/Content/FirstPerson/Blueprints/Fortnelson/SM_Wall_Fortnelson.uasset",
 				"D:/Game Dev/CV/GameMuseum/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
