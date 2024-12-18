@@ -6909,3 +6909,485 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.18-02.03.03:070][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9982.530273
 [2024.12.18-02.03.04:071][257]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.18-02.03.04:071][257]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9983.197266, Update Interval: 312.958771
+[2024.12.18-02.04.14:972][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.04.14:972][662]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.04.14:973][662]LogWorld: UWorld::CleanupWorld for PokemonGoRoom, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-02.04.14:973][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.04.14:976][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-02.04.14:982][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.04.14:998][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.04.14:999][662]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.12.18-02.04.14:999][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.12.18-02.04.15:001][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.12.18-02.04.15:009][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.12.18-02.04.15:070][663]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.12.18-02.04.15:715][667]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2024.12.18-02.04.16:721][723]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-02.04.16:730][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-02.04.16:730][723]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.04.16:737][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006717s)
+[2024.12.18-02.04.16:737][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/PokemonGoRoom.PokemonGoRoom to /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom (0.006760s)
+[2024.12.18-02.04.16:754][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.18-02.04.16:757][723]LogChaosDD: Creating Chaos Debug Draw Scene for world PokemonGoRoom
+[2024.12.18-02.04.16:759][723]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2024.12.18-02.04.16:759][723]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.12.18-02.04.16:759][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-02.04.16:759][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-02.04.16:759][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-02.04.16:759][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-02.04.16:759][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-02.04.16:759][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-02.04.16:759][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-02.04.16:759][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-02.04.16:759][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-02.04.16:759][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-02.04.16:759][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-02.04.16:762][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-02.04.16:805][723]LogAudioMixer: Display: Using Audio Hardware Device Auscultadores (7- Razer Nari Ultimate - Game)
+[2024.12.18-02.04.16:806][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-02.04.16:806][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-02.04.16:806][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-02.04.16:806][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.12.18-02.04.16:806][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.12.18-02.04.16:809][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.12.18-02.04.16:809][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.12.18-02.04.16:809][723]LogInit: FAudioDevice initialized with ID 39.
+[2024.12.18-02.04.16:809][723]LogAudio: Display: Audio Device (ID: 39) registered with world 'PokemonGoRoom'.
+[2024.12.18-02.04.16:809][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.12.18-02.04.16:813][723]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.18-02.04.16:816][723]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom up for play (max tick rate 60) at 2024.12.18-02.04.16
+[2024.12.18-02.04.16:817][723]LogWorld: Bringing up level for play took: 0.004017
+[2024.12.18-02.04.16:819][723]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.12.18-02.04.16:823][723]PIE: Server logged in
+[2024.12.18-02.04.16:824][723]PIE: Play in editor total start time 0.095 seconds.
+[2024.12.18-02.04.41:623][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.04.41:623][573]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.04.41:623][573]LogWorld: UWorld::CleanupWorld for PokemonGoRoom, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-02.04.41:624][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.04.41:628][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-02.04.41:635][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.04.41:660][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.04.41:660][573]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.12.18-02.04.41:660][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.12.18-02.04.41:663][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.12.18-02.04.41:672][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.12.18-02.04.41:760][574]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.12.18-02.04.55:618][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-02.04.55:702][ 53]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall] ([2] browsable assets)...
+[2024.12.18-02.04.55:748][ 53]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall.BP_PokeBall]
+[2024.12.18-02.04.55:748][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall]
+[2024.12.18-02.04.55:763][ 53]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall
+[2024.12.18-02.04.55:763][ 53]LogSavePackage: Moving '../../../../../../Escola/Uni/MDJD-Projects/CV/GameMuseum/Saved/BP_PokeBall3E7588824AFA55C6BA1DA58A22E7DE6C.tmp' to '../../../../../../Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FirstPerson/Blueprints/PokemonGO/BP_PokeBall.uasset'
+[2024.12.18-02.04.55:775][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.590 ms (total: 5.08 sec)
+[2024.12.18-02.04.55:819][ 53]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-02.04.55:819][ 53]LogContentValidation: Enabled validators:
+[2024.12.18-02.04.55:819][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-02.04.55:819][ 53]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-02.04.55:819][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-02.04.55:819][ 53]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-02.04.55:819][ 53]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-02.04.55:819][ 53]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-02.04.55:819][ 53]AssetCheck: /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall Validating asset
+[2024.12.18-02.04.57:888][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.18-02.05.03:027][413]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-02.05.03:036][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-02.05.03:036][413]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.05.03:043][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007154s)
+[2024.12.18-02.05.03:043][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/PokemonGoRoom.PokemonGoRoom to /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom (0.007194s)
+[2024.12.18-02.05.03:064][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.18-02.05.03:071][413]LogChaosDD: Creating Chaos Debug Draw Scene for world PokemonGoRoom
+[2024.12.18-02.05.03:072][413]LogPlayLevel: PIE: World Init took: (0.001744s)
+[2024.12.18-02.05.03:073][413]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.12.18-02.05.03:073][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-02.05.03:073][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-02.05.03:073][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-02.05.03:073][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-02.05.03:073][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-02.05.03:073][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-02.05.03:073][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-02.05.03:073][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-02.05.03:073][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-02.05.03:073][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-02.05.03:073][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-02.05.03:076][413]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-02.05.03:120][413]LogAudioMixer: Display: Using Audio Hardware Device Auscultadores (7- Razer Nari Ultimate - Game)
+[2024.12.18-02.05.03:120][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-02.05.03:120][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-02.05.03:120][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-02.05.03:121][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.12.18-02.05.03:121][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.12.18-02.05.03:123][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.12.18-02.05.03:123][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.12.18-02.05.03:123][413]LogInit: FAudioDevice initialized with ID 40.
+[2024.12.18-02.05.03:123][413]LogAudio: Display: Audio Device (ID: 40) registered with world 'PokemonGoRoom'.
+[2024.12.18-02.05.03:123][413]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.12.18-02.05.03:126][413]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.18-02.05.03:129][413]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom up for play (max tick rate 60) at 2024.12.18-02.05.03
+[2024.12.18-02.05.03:130][413]LogWorld: Bringing up level for play took: 0.003921
+[2024.12.18-02.05.03:133][413]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.12.18-02.05.03:136][413]PIE: Server logged in
+[2024.12.18-02.05.03:138][413]PIE: Play in editor total start time 0.103 seconds.
+[2024.12.18-02.05.13:282][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.05.13:282][799]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.05.13:282][799]LogWorld: UWorld::CleanupWorld for PokemonGoRoom, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-02.05.13:283][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.05.13:286][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-02.05.13:290][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.05.13:310][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.05.13:310][799]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.12.18-02.05.13:310][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.12.18-02.05.13:312][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.12.18-02.05.13:320][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.18-02.05.13:405][800]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.12.18-02.05.13:925][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-02.05.13:935][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-02.05.13:935][812]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.05.13:942][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007042s)
+[2024.12.18-02.05.13:942][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/PokemonGoRoom.PokemonGoRoom to /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom (0.007089s)
+[2024.12.18-02.05.13:964][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.12.18-02.05.13:967][812]LogChaosDD: Creating Chaos Debug Draw Scene for world PokemonGoRoom
+[2024.12.18-02.05.13:968][812]LogPlayLevel: PIE: World Init took: (0.001748s)
+[2024.12.18-02.05.13:969][812]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.12.18-02.05.13:969][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-02.05.13:969][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-02.05.13:969][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-02.05.13:969][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-02.05.13:969][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-02.05.13:969][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-02.05.13:969][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-02.05.13:969][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-02.05.13:969][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-02.05.13:969][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-02.05.13:969][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-02.05.13:971][812]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-02.05.14:015][812]LogAudioMixer: Display: Using Audio Hardware Device Auscultadores (7- Razer Nari Ultimate - Game)
+[2024.12.18-02.05.14:015][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-02.05.14:015][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-02.05.14:015][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-02.05.14:016][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.12.18-02.05.14:016][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.12.18-02.05.14:019][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.12.18-02.05.14:019][812]LogInit: FAudioDevice initialized with ID 41.
+[2024.12.18-02.05.14:019][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.12.18-02.05.14:019][812]LogAudio: Display: Audio Device (ID: 41) registered with world 'PokemonGoRoom'.
+[2024.12.18-02.05.14:019][812]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.12.18-02.05.14:022][812]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.18-02.05.14:026][812]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom up for play (max tick rate 60) at 2024.12.18-02.05.14
+[2024.12.18-02.05.14:026][812]LogWorld: Bringing up level for play took: 0.003767
+[2024.12.18-02.05.14:029][812]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.12.18-02.05.14:032][812]PIE: Server logged in
+[2024.12.18-02.05.14:034][812]PIE: Play in editor total start time 0.099 seconds.
+[2024.12.18-02.05.19:772][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.05.19:772][ 78]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.05.19:772][ 78]LogWorld: UWorld::CleanupWorld for PokemonGoRoom, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-02.05.19:773][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.05.19:776][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-02.05.19:782][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.05.19:805][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.05.19:805][ 78]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.12.18-02.05.19:805][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.12.18-02.05.19:807][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.12.18-02.05.19:817][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.18-02.05.19:911][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.12.18-02.05.21:093][101]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-02.05.21:103][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-02.05.21:103][101]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.05.21:109][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006365s)
+[2024.12.18-02.05.21:109][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/PokemonGoRoom.PokemonGoRoom to /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom (0.006404s)
+[2024.12.18-02.05.21:128][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.18-02.05.21:131][101]LogChaosDD: Creating Chaos Debug Draw Scene for world PokemonGoRoom
+[2024.12.18-02.05.21:133][101]LogPlayLevel: PIE: World Init took: (0.001808s)
+[2024.12.18-02.05.21:134][101]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.12.18-02.05.21:134][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-02.05.21:134][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-02.05.21:134][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-02.05.21:134][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-02.05.21:134][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-02.05.21:134][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-02.05.21:134][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-02.05.21:134][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-02.05.21:134][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-02.05.21:134][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-02.05.21:134][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-02.05.21:136][101]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-02.05.21:179][101]LogAudioMixer: Display: Using Audio Hardware Device Auscultadores (7- Razer Nari Ultimate - Game)
+[2024.12.18-02.05.21:180][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-02.05.21:180][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-02.05.21:180][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-02.05.21:180][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.12.18-02.05.21:180][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.12.18-02.05.21:183][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.12.18-02.05.21:183][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.12.18-02.05.21:183][101]LogInit: FAudioDevice initialized with ID 42.
+[2024.12.18-02.05.21:183][101]LogAudio: Display: Audio Device (ID: 42) registered with world 'PokemonGoRoom'.
+[2024.12.18-02.05.21:183][101]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.12.18-02.05.21:186][101]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.18-02.05.21:189][101]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom up for play (max tick rate 60) at 2024.12.18-02.05.21
+[2024.12.18-02.05.21:190][101]LogWorld: Bringing up level for play took: 0.003730
+[2024.12.18-02.05.21:193][101]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.12.18-02.05.21:196][101]PIE: Server logged in
+[2024.12.18-02.05.21:197][101]PIE: Play in editor total start time 0.095 seconds.
+[2024.12.18-02.05.36:722][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.05.36:722][436]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.05.36:722][436]LogWorld: UWorld::CleanupWorld for PokemonGoRoom, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-02.05.36:723][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.05.36:726][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-02.05.36:731][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.05.36:752][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.05.36:753][436]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.12.18-02.05.36:753][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.12.18-02.05.36:755][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.12.18-02.05.36:764][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.18-02.05.36:874][437]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.12.18-02.05.55:378][573]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-02.05.55:386][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-02.05.55:386][573]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.05.55:393][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006289s)
+[2024.12.18-02.05.55:393][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/PokemonGoRoom.PokemonGoRoom to /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom (0.006327s)
+[2024.12.18-02.05.55:412][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.18-02.05.55:414][573]LogChaosDD: Creating Chaos Debug Draw Scene for world PokemonGoRoom
+[2024.12.18-02.05.55:415][573]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2024.12.18-02.05.55:416][573]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.12.18-02.05.55:416][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-02.05.55:416][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-02.05.55:416][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-02.05.55:416][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-02.05.55:416][573]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-02.05.55:416][573]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-02.05.55:416][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-02.05.55:416][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-02.05.55:416][573]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-02.05.55:416][573]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-02.05.55:416][573]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-02.05.55:419][573]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-02.05.55:461][573]LogAudioMixer: Display: Using Audio Hardware Device Auscultadores (7- Razer Nari Ultimate - Game)
+[2024.12.18-02.05.55:462][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-02.05.55:462][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-02.05.55:462][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-02.05.55:463][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.12.18-02.05.55:463][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.12.18-02.05.55:466][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.12.18-02.05.55:466][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.12.18-02.05.55:466][573]LogInit: FAudioDevice initialized with ID 43.
+[2024.12.18-02.05.55:466][573]LogAudio: Display: Audio Device (ID: 43) registered with world 'PokemonGoRoom'.
+[2024.12.18-02.05.55:466][573]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.12.18-02.05.55:470][573]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.18-02.05.55:474][573]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom up for play (max tick rate 60) at 2024.12.18-02.05.55
+[2024.12.18-02.05.55:474][573]LogWorld: Bringing up level for play took: 0.003859
+[2024.12.18-02.05.55:477][573]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.12.18-02.05.55:480][573]PIE: Server logged in
+[2024.12.18-02.05.55:481][573]PIE: Play in editor total start time 0.096 seconds.
+[2024.12.18-02.06.04:681][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.06.04:681][946]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.06.04:682][946]LogWorld: UWorld::CleanupWorld for PokemonGoRoom, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-02.06.04:682][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.06.04:685][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-02.06.04:690][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.06.04:711][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.06.04:711][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.12.18-02.06.04:711][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.12.18-02.06.04:713][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.12.18-02.06.04:720][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.18-02.06.04:808][947]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.12.18-02.08.22:508][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-02.08.22:589][984]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall] ([2] browsable assets)...
+[2024.12.18-02.08.22:635][984]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall.BP_PokeBall]
+[2024.12.18-02.08.22:635][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall]
+[2024.12.18-02.08.22:651][984]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall
+[2024.12.18-02.08.22:651][984]LogSavePackage: Moving '../../../../../../Escola/Uni/MDJD-Projects/CV/GameMuseum/Saved/BP_PokeBall5B6569234CC663738B36428F597B7E1B.tmp' to '../../../../../../Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FirstPerson/Blueprints/PokemonGO/BP_PokeBall.uasset'
+[2024.12.18-02.08.22:665][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.686 ms (total: 5.24 sec)
+[2024.12.18-02.08.22:706][984]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-02.08.22:706][984]LogContentValidation: Enabled validators:
+[2024.12.18-02.08.22:706][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-02.08.22:706][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-02.08.22:706][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-02.08.22:706][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-02.08.22:706][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-02.08.22:706][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-02.08.22:706][984]AssetCheck: /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall Validating asset
+[2024.12.18-02.08.25:158][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.18-02.08.30:459][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-02.08.30:469][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-02.08.30:469][284]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.08.30:476][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006966s)
+[2024.12.18-02.08.30:476][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/PokemonGoRoom.PokemonGoRoom to /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom (0.007010s)
+[2024.12.18-02.08.30:493][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.18-02.08.30:497][284]LogChaosDD: Creating Chaos Debug Draw Scene for world PokemonGoRoom
+[2024.12.18-02.08.30:499][284]LogPlayLevel: PIE: World Init took: (0.001770s)
+[2024.12.18-02.08.30:500][284]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.12.18-02.08.30:500][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-02.08.30:500][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-02.08.30:500][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-02.08.30:500][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-02.08.30:500][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-02.08.30:500][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-02.08.30:500][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-02.08.30:500][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-02.08.30:500][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-02.08.30:500][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-02.08.30:500][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-02.08.30:503][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-02.08.30:547][284]LogAudioMixer: Display: Using Audio Hardware Device Auscultadores (7- Razer Nari Ultimate - Game)
+[2024.12.18-02.08.30:547][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-02.08.30:547][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-02.08.30:547][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-02.08.30:548][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.12.18-02.08.30:548][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.12.18-02.08.30:550][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.12.18-02.08.30:550][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.12.18-02.08.30:550][284]LogInit: FAudioDevice initialized with ID 44.
+[2024.12.18-02.08.30:550][284]LogAudio: Display: Audio Device (ID: 44) registered with world 'PokemonGoRoom'.
+[2024.12.18-02.08.30:550][284]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.12.18-02.08.30:553][284]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.18-02.08.30:558][284]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom up for play (max tick rate 60) at 2024.12.18-02.08.30
+[2024.12.18-02.08.30:558][284]LogWorld: Bringing up level for play took: 0.004361
+[2024.12.18-02.08.30:561][284]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.12.18-02.08.30:565][284]PIE: Server logged in
+[2024.12.18-02.08.30:566][284]PIE: Play in editor total start time 0.097 seconds.
+[2024.12.18-02.08.49:559][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.08.49:559][887]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.08.49:560][887]LogWorld: UWorld::CleanupWorld for PokemonGoRoom, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-02.08.49:560][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.08.49:563][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-02.08.49:568][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.08.49:589][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.18-02.08.49:589][887]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.12.18-02.08.49:589][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.12.18-02.08.49:591][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.12.18-02.08.49:596][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.08.49:598][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.18-02.08.49:686][888]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.12.18-02.09.11:484][262]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10350.874023
+[2024.12.18-02.09.12:485][265]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-02.09.12:485][265]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10351.540039, Update Interval: 328.684357
+[2024.12.18-02.12.58:080][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.12.18-02.12.58:084][327]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/PokemonGoRoom' took 0.025
+[2024.12.18-02.12.58:084][327]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall] ([2] browsable assets)...
+[2024.12.18-02.12.58:130][327]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall.BP_PokeBall]
+[2024.12.18-02.12.58:130][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall]
+[2024.12.18-02.12.58:147][327]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall_Auto1
+[2024.12.18-02.12.58:147][327]LogSavePackage: Moving '../../../../../../Escola/Uni/MDJD-Projects/CV/GameMuseum/Saved/BP_PokeBall_Auto1F1B9D29B4D5BE23ADD268E8767F36248.tmp' to '../../../../../../Escola/Uni/MDJD-Projects/CV/GameMuseum/Saved/Autosaves/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall_Auto1.uasset'
+[2024.12.18-02.12.58:148][327]LogFileHelpers: Auto-saving content packages took 0.065
+[2024.12.18-02.13.55:417][170]LogEditorTransaction: Undo Create Pin Link
+[2024.12.18-02.14.20:466][346]LogEditorTransaction: Undo Move Node
+[2024.12.18-02.14.21:232][366]LogEditorTransaction: Undo Create Pin Link
+[2024.12.18-02.14.24:250][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-02.14.24:315][495]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall] ([2] browsable assets)...
+[2024.12.18-02.14.24:361][495]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall.BP_PokeBall]
+[2024.12.18-02.14.24:361][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall]
+[2024.12.18-02.14.24:377][495]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall
+[2024.12.18-02.14.24:377][495]LogSavePackage: Moving '../../../../../../Escola/Uni/MDJD-Projects/CV/GameMuseum/Saved/BP_PokeBall8E4A81A144257AD6915567A378C9C2A3.tmp' to '../../../../../../Escola/Uni/MDJD-Projects/CV/GameMuseum/Content/FirstPerson/Blueprints/PokemonGO/BP_PokeBall.uasset'
+[2024.12.18-02.14.24:392][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.567 ms (total: 5.38 sec)
+[2024.12.18-02.14.24:434][495]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-02.14.24:434][495]LogContentValidation: Enabled validators:
+[2024.12.18-02.14.24:434][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-02.14.24:434][495]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-02.14.24:434][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-02.14.24:434][495]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-02.14.24:434][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-02.14.24:434][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-02.14.24:434][495]AssetCheck: /Game/FirstPerson/Blueprints/PokemonGO/BP_PokeBall Validating asset
+[2024.12.18-02.14.25:278][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.12.18-02.14.29:343][661]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-02.14.29:353][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-02.14.29:353][661]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.14.29:363][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010371s)
+[2024.12.18-02.14.29:363][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/PokemonGoRoom.PokemonGoRoom to /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom (0.010424s)
+[2024.12.18-02.14.29:390][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.12.18-02.14.29:398][661]LogChaosDD: Creating Chaos Debug Draw Scene for world PokemonGoRoom
+[2024.12.18-02.14.29:401][661]LogPlayLevel: PIE: World Init took: (0.002384s)
+[2024.12.18-02.14.29:402][661]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.12.18-02.14.29:403][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-02.14.29:403][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-02.14.29:403][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-02.14.29:403][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-02.14.29:403][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-02.14.29:403][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-02.14.29:403][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-02.14.29:403][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-02.14.29:403][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-02.14.29:403][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-02.14.29:403][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-02.14.29:407][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-02.14.29:471][661]LogAudioMixer: Display: Using Audio Hardware Device Auscultadores (7- Razer Nari Ultimate - Game)
+[2024.12.18-02.14.29:472][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-02.14.29:472][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-02.14.29:472][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-02.14.29:472][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.12.18-02.14.29:472][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.12.18-02.14.29:476][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.12.18-02.14.29:476][661]LogInit: FAudioDevice initialized with ID 45.
+[2024.12.18-02.14.29:476][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.12.18-02.14.29:476][661]LogAudio: Display: Audio Device (ID: 45) registered with world 'PokemonGoRoom'.
+[2024.12.18-02.14.29:476][661]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.12.18-02.14.29:479][661]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.18-02.14.29:483][661]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom up for play (max tick rate 60) at 2024.12.18-02.14.29
+[2024.12.18-02.14.29:484][661]LogWorld: Bringing up level for play took: 0.004310
+[2024.12.18-02.14.29:486][661]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.12.18-02.14.29:490][661]PIE: Server logged in
+[2024.12.18-02.14.29:492][661]PIE: Play in editor total start time 0.139 seconds.
+[2024.12.18-02.15.08:926][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.15.08:926][178]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.15.08:926][178]LogWorld: UWorld::CleanupWorld for PokemonGoRoom, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-02.15.08:927][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.15.08:930][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-02.15.08:935][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.15.08:955][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.15.08:955][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.12.18-02.15.08:956][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.12.18-02.15.08:958][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.12.18-02.15.08:966][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.18-02.15.09:047][179]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.12.18-02.15.09:885][188]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-02.15.09:894][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-02.15.09:894][188]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.15.09:901][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006636s)
+[2024.12.18-02.15.09:901][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/PokemonGoRoom.PokemonGoRoom to /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom (0.006690s)
+[2024.12.18-02.15.09:922][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.18-02.15.09:924][188]LogChaosDD: Creating Chaos Debug Draw Scene for world PokemonGoRoom
+[2024.12.18-02.15.09:926][188]LogPlayLevel: PIE: World Init took: (0.001657s)
+[2024.12.18-02.15.09:927][188]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.12.18-02.15.09:927][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-02.15.09:927][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-02.15.09:927][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-02.15.09:927][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-02.15.09:927][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-02.15.09:927][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-02.15.09:927][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-02.15.09:927][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-02.15.09:927][188]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-02.15.09:927][188]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-02.15.09:927][188]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-02.15.09:929][188]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-02.15.09:973][188]LogAudioMixer: Display: Using Audio Hardware Device Auscultadores (7- Razer Nari Ultimate - Game)
+[2024.12.18-02.15.09:973][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-02.15.09:973][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-02.15.09:973][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-02.15.09:974][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.12.18-02.15.09:974][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.12.18-02.15.09:977][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.12.18-02.15.09:977][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.12.18-02.15.09:977][188]LogInit: FAudioDevice initialized with ID 46.
+[2024.12.18-02.15.09:977][188]LogAudio: Display: Audio Device (ID: 46) registered with world 'PokemonGoRoom'.
+[2024.12.18-02.15.09:977][188]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.12.18-02.15.10:096][188]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.18-02.15.10:099][188]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom.PokemonGoRoom up for play (max tick rate 60) at 2024.12.18-02.15.10
+[2024.12.18-02.15.10:099][188]LogWorld: Bringing up level for play took: 0.003679
+[2024.12.18-02.15.10:103][188]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.12.18-02.15.10:107][188]PIE: Server logged in
+[2024.12.18-02.15.10:108][188]PIE: Play in editor total start time 0.214 seconds.
+[2024.12.18-02.15.14:426][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10713.665039
+[2024.12.18-02.15.14:649][278]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-02.15.14:649][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10713.854492, Update Interval: 321.890930
+[2024.12.18-02.15.30:585][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.15.30:585][889]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_PokemonGoRoom
+[2024.12.18-02.15.30:585][889]LogWorld: UWorld::CleanupWorld for PokemonGoRoom, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-02.15.30:586][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.15.30:589][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-02.15.30:594][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-02.15.30:616][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-02.15.30:616][889]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.12.18-02.15.30:616][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.12.18-02.15.30:618][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.12.18-02.15.30:626][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.18-02.15.30:706][890]LogPlayLevel: Display: Destroying online subsystem :Context_51
