@@ -24,9 +24,9 @@ Additionally, the goals we aimed to achieve with this project, as well as other 
   - **Post-Processing**: Visual effects like fog in the Fortnite room polish the aesthetic and establish the atmosphere, adding depth and mystery to the scene.
 
 ## Contributors
- * Daniel Emído: [Daniel's Git](https://github.com/DanielEmdio)
- * David Palricas : [David's Git](https://github.com/DavidPalricas])
- * Pedro Torres : [Pedro's Git](https://github.com/pedrotorres1001)
+ * Daniel Emído Master's Student in Software Engineering   : [Daniel's Git](https://github.com/DanielEmdio)
+ * David Palricas  Master's Student in Digital Game Development  : [David's Git](https://github.com/DavidPalricas])
+ * Pedro Torres  Master's Student in Digital Game Development  : [Pedro's Git](https://github.com/pedrotorres1001)
 
 
 
