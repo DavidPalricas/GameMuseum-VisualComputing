@@ -7,7 +7,7 @@ In each room, the player will have to solve a challenge that will be presented t
 
 The game files can be found in the `GameMuseum` folder. 
 
-Builds of the project for both DirectX 11 and DirectX 12 are available in the `Releases` section. 
+Builds of the project for both `DirectX 11` and `DirectX 12` are available in the `Releases` section. Additionally, in this section, you will also find the `video report` in European Portuguese explaining the technical aspects of our work
 
 Additionally, the goals we aimed to achieve with this project, as well as other details and features, are outlined in the `Presentation.pptx` file.  
 
